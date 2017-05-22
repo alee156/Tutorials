@@ -9,4 +9,4 @@
  * Then type **pwd** after $ in order to outputs the name of the current working directory-you have directed the housekeeper to one of your room, we name bedroomA.
  * Then type **cd** after $ to switch you into the directory you specify-you can change the room housekeeper into. 
  * Try type **mkdir** after $ to create new directory-yay! you can ask your housekeeper to build a new room for you.
- * Try type **touch** after $ to create new file inside the working directory-you can finally help you housekeeper add some new furiture in your new build room or any rooms by doing so!
+ * Try type **touch** after $ to create new file inside the working directory-you can finally help you housekeeper add some new furiture in your new built room or any rooms by doing so!
