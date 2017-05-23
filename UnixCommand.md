@@ -5,8 +5,9 @@
 ## How to use it ##
  * To start, we need to type in a *terminal*.
  
-## 
- * **ls**(Letter not number 1) to list all the files and directories in the working directories-by doing so, you give the housekeeper a overview of the house.
+## Basic Commands
+ * **ls**(Letter not number 1) to list all the files and directories in the working directories
+     A dr
  * **pwd** to outputs the name of the current working directory-you have directed the housekeeper to one of your room, we name bedroomA.
  * **cd** to switch you into the directory you specify-you can change the room housekeeper into. 
  * **mkdir** to create new directory-yay! you can ask your housekeeper to build a new room for you.
